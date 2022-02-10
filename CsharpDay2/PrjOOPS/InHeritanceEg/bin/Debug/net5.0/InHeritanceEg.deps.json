@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InHeritanceEg/1.0.0": {
+        "runtime": {
+          "InHeritanceEg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InHeritanceEg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

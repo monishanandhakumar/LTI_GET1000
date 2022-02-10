@@ -1,0 +1,56 @@
+console
+windows
+web
+mobile
+
+CLS-Common language specification
+CTS-Common Type system
+MSIL-Microsoft intermediate language
+
+NamingConvention
+Class name
+Methods ,variables
+
+OOPS
+-----
+Reability
+Reusability
+Modularity
+flexbility
+Abstraction
+
+What does class contains
+
+class - properties,variables, member function
+
+Object class is ancestorclass or parent class
+
+Data type
+
+Valuetype    reference type
+
+syntax for method
+
+access specifier or modifier returntype methodname(paralist)
+{
+
+}
+
+access specifier or modifier
+-----------------------------
+private,protected,internal,protected internal,public
+
+type conversion
+---------------
+1.Implicit conversion 2.Explicit conversion
+
+
+
+
+
+
+
+
+
+
+

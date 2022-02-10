@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\ref\InHeritanceEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\bin\Debug\net5.0\InHeritanceEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.csproj.AssemblyReference.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\ref\InHeritanceEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\InHeritanceEg\obj\Debug\net5.0\InHeritanceEg.genruntimeconfig.cache

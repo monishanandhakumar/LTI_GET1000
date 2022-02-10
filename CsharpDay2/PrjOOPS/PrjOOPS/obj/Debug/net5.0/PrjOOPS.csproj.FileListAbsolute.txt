@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.csproj.AssemblyReference.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\ref\PrjOOPS.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\bin\Debug\net5.0\PrjOOPS.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\ref\PrjOOPS.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay2\PrjOOPS\PrjOOPS\obj\Debug\net5.0\PrjOOPS.genruntimeconfig.cache

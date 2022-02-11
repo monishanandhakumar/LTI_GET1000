@@ -14,6 +14,7 @@ namespace InHeritanceEg
 
         internal Exam(int id, string examname)
         {
+            Console.WriteLine("Exam constructor");
             this.id = id;
             this.examname = examname;
         }
@@ -22,7 +23,10 @@ namespace InHeritanceEg
         {
             Console.WriteLine("Examid:{0} || ExamName:{1}",id,examname);
         }
-
+        ~Exam()
+        {
+            Console.WriteLine("Exam destructor");
+        }
 
     }
 
@@ -36,7 +40,8 @@ namespace InHeritanceEg
 
         internal Student(int id, string examname,int sid,string sname,string contactno,string status):base(id,examname)
         {
-           this. id = sid;
+            Console.WriteLine("Student constructor");
+            this. id = sid;
             this.sname = sname;
             this.contactno = contactno;
             this.status = status;
@@ -46,25 +51,55 @@ namespace InHeritanceEg
         {
             Console.WriteLine("sid:{0} || sname:{1}|| contactno:{2}",id,sname,contactno);
         }
-        internal void Examstatus()
+       protected void Examstatus()
         {
             Console.WriteLine("Eid :{0} ||sid:{1} || status:{2}", base.id, id, status);
         }
-
+        ~Student()
+        {
+            Console.WriteLine("Student destructor");
+        }
     }
 
-    
+    class  ExamResult:Student
+    {
+        public int score { get; set; }
+                           //exam                 //student                                               //examresult
+       internal ExamResult(int id, string examname, int sid, string sname, string contactno, string status,int score):base(id,examname,sid,sname,contactno,status)
+        {
+            Console.WriteLine("ExamResult constructor");
+            this.score = score;
+        }
+
+        internal void Result()
+        {
+            Examstatus();
+            Console.WriteLine("Ename:{0}|| Sid:{1} || Score:{2}",examname,id,score);
+        }
+
+        ~ExamResult()
+        {
+            Console.WriteLine("ExamResult destructor");
+        }
+        
+    }
     class GovtExam
     {
 
         static void Main()
         {
-            Student student = new Student(1000,"TRB",101, "Hari", "890677900","Attended");
-            student.Examinfo(); //calling parent class method
+            /*  Student student = new Student(1000,"TRB",101, "Hari", "890677900","Attended");
+              student.Examinfo(); //calling parent class method
 
-            student.PrintData();
+              student.PrintData();*/
 
-            student.Examstatus();
+            //student.Examstatus();
+
+            ExamResult examResult = new ExamResult(1000, "TRB", 101, "Hari", "890677900", "Attended", 190);
+            examResult.Examinfo(); //grandparent
+            examResult.Result();
+
+          
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.csproj.AssemblyReference.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\ref\InheritanceConcepts.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\bin\Debug\net5.0\InheritanceConcepts.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\ref\InheritanceConcepts.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay3\CSharpDay3\InheritanceConcepts\obj\Debug\net5.0\InheritanceConcepts.genruntimeconfig.cache

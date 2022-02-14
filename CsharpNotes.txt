@@ -47,11 +47,35 @@ type conversion
 Overloading --compile time polymorphism
 overriding - run time polymorphism
 
+Abstract
+
+virtual
 
 
+Interface
+property
+functions --by default abstract
+
+Difference Abstract and interface
+
+  Exception Handling
+
+try
+
+catch
 
 
+finally 
 
+throw
+
+
+Generics - <T>  --datatype
+--------
+
+code-reuse
+typesafe
+avoids unnecessary boxing and unboxing
 
 
 

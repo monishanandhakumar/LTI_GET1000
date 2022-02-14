@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\ref\LinqEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\bin\Debug\net5.0\LinqEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.csproj.AssemblyReference.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\ref\LinqEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\LinqEg\obj\Debug\net5.0\LinqEg.genruntimeconfig.cache

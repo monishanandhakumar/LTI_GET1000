@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\ref\Collection_GenericsEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\bin\Debug\net5.0\Collection_GenericsEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\ref\Collection_GenericsEg.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.genruntimeconfig.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\CsharpDay4\CsharpDay4\CollectionEg\obj\Debug\net5.0\Collection_GenericsEg.csproj.AssemblyReference.cache

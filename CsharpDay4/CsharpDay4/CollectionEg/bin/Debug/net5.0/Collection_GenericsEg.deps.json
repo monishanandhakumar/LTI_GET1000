@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Collection_GenericsEg/1.0.0": {
+        "runtime": {
+          "Collection_GenericsEg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Collection_GenericsEg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

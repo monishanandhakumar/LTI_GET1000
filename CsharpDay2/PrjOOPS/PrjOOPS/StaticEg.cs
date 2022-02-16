@@ -36,9 +36,11 @@ namespace PrjOOPS
         internal static float studentAverage(int total, int noofsubjects)
         {
             float average = total / noofsubjects;
+            Math.Floor(78.90);
 
             return average;
         }
+
     }
     class StaticEg
     {

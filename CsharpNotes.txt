@@ -3,9 +3,14 @@ windows
 web
 mobile
 
+kestrel
+
 CLS-Common language specification
 CTS-Common Type system
 MSIL-Microsoft intermediate language
+CLR-Common language Runtime
+Managed code
+unmanaged code
 
 NamingConvention
 Class name
@@ -76,6 +81,28 @@ Generics - <T>  --datatype
 code-reuse
 typesafe
 avoids unnecessary boxing and unboxing
+
+
+Ado.Net Activecx Data Object
+-------
+
+1.Connected Architecture
+2.Disconnected Architecure
+
+dll -- dynamic link library
+----
+1.private assembly
+2.Share assembly --Gac util
+
+types of classes
+1.abstract 2.static 3. sealed 4.partial
+
+
+
+
+
+
+
 
 
 

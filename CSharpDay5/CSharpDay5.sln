@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ado.net", "Ado.net\Ado.net.csproj", "{56D26FE0-CF12-4A56-B438-E93C6714CCB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get1000ClassLibrary", "Get1000ClassLibrary\Get1000ClassLibrary.csproj", "{69D6796C-BA71-46A2-8768-DA65FFE7EC1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D26FE0-CF12-4A56-B438-E93C6714CCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D26FE0-CF12-4A56-B438-E93C6714CCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D26FE0-CF12-4A56-B438-E93C6714CCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D26FE0-CF12-4A56-B438-E93C6714CCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D6796C-BA71-46A2-8768-DA65FFE7EC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D6796C-BA71-46A2-8768-DA65FFE7EC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D6796C-BA71-46A2-8768-DA65FFE7EC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D6796C-BA71-46A2-8768-DA65FFE7EC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004C82CD-E13E-4E89-BFB0-07904904AA08}
+	EndGlobalSection
+EndGlobal

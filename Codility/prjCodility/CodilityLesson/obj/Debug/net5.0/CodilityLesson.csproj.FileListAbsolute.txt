@@ -1,0 +1,16 @@
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.exe
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.deps.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.runtimeconfig.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.runtimeconfig.dev.json
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\ref\CodilityLesson.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\bin\Debug\net5.0\CodilityLesson.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.csproj.AssemblyReference.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.AssemblyInfoInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.AssemblyInfo.cs
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.csproj.CoreCompileInputs.cache
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\ref\CodilityLesson.dll
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.pdb
+C:\OnlineTraining\LTI\.Net1000\Csharp\Codility\prjCodility\CodilityLesson\obj\Debug\net5.0\CodilityLesson.genruntimeconfig.cache

@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RegistrationForm</title>
+    <style>
+      
+
+        form{
+            text-align:center;
+            border:double;
+        }
+    </style>
+    <script type="text/javascript">
+
+
+        function formValidator() {
+            var firstname = document.getElementById("fname");
+            var zipcode = document.getElementById("zip");
+            var email = document.getElementById("email");
+            var state = document.getElementById("state");
+
+            if (isAlphabet(firstname, "Alphabets only!!!")) {
+                if (emailvalidator(email, "Please enter valid email address")) {
+                    if (isNumeric(zipcode, "Only Numeric!!!")) {
+                        if (madeSelection(state, "Please Choose from belowlist")) {
+                            return true;
+                        }
+                    }
+                }
+            }
+            return false;
+        }
+
+        //Firstname
+        function isAlphabet(elem, helperMsg) {
+            var alphaExp = /^[a-zA-Z]+$/;
+            if (elem.value.match(alphaExp)) {
+                return true;
+            }
+            else {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+
+        }
+        //Zipcode
+        function isNumeric(elem, helperMsg) {
+            var numericExp = /^[0-9]+$/;
+            if (elem.value.match(numericExp)) {
+                return true;
+            }
+            else {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+
+        }
+
+        //email
+        function emailvalidator(elem, helperMsg) {
+            var emailExp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            if (elem.value.match(emailExp)) {
+                return true;
+            }
+            else {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+
+        }
+
+        //select list
+
+        function madeSelection(elem, helperMsg) {
+            
+            if (elem.value =="Please Choose") {
+                alert(helperMsg);
+                elem.focus();
+                return false;
+            }
+            else {
+
+                return true;
+            }
+
+        }
+    </script>
+</head>
+<body style="background-color:antiquewhite">
+    <div><center>Registration Form</center></div><br /><br />
+    <div class="reg">
+        <form onsubmit="return formValidator()">
+            FirstName:<input type="text" id="fname" required /><br /><br />
+            LastName:<input type="text" id="lname" /><br /><br />
+            Age:<input type="number" id="uage" min="18" max="34" /><br /><br />
+            Email:<input type="text" id="email" /><br /><br />
+            Address<textarea rows="5" cols="10"></textarea><br /><br />
+            ZipCode<input type="text" id="zip" /><br /><br />
+            State:<select id="state">
+                <option>Please Choose</option>
+                <option>Tamilnadu</option>
+                <option>Kerala</option>
+                <option>Maharastra</option>
+            </select><br /><br />
+          
+            <input type="submit" /> &nbsp;&nbsp;<input type="reset"/>
+        </form>
+    </div>
+
+
+</body>
+</html>

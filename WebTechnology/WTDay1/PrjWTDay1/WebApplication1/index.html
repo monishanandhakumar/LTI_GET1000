@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        *{
+            box-sizing:border-box;
+        }
+        header,footer{
+            background-color:silver;
+            text-align:center;
+            font-size:30px;
+            padding:30px;
+        }
+        nav li{
+            list-style-type:none;
+            padding:0;
+        }
+        nav{
+            overflow:hidden;
+            background-color:#333;
+        }
+        nav li a{
+            float:left;
+            color:#4cff00;text-align:center;padding:14px 16px;text-decoration:none;font-size:17px;
+        }
+        a:hover{
+            background-color:aqua;
+            color:black;
+        }
+        section{
+            margin:0px;
+            padding:6px;
+            background-color:wheat;
+        }
+        article{
+            margin:5px;
+            padding:10px;
+            background-color:azure;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 marquree="left">JuiceShop</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">AboutUs</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="RegistrationForm.html" style="float:right">SignUp</a></li>
+            <li><a href="RegistrationForm.html" style="float:right">Login</a></li>
+            
+        </ul>
+        </nav>
+        <section>
+            <article>
+                <div style="background-color:lightblue">
+                    Juice Shop is written in Node.js, Express and Angular. It was the first application written entirely in JavaScript listed in the OWASP VWA Directory.
+
+                    The application contains a vast number of hacking challenges of varying difficulty where the user is supposed to exploit the underlying vulnerabilities. The hacking progress is tracked on a score board. Finding this score board is actually one of the (easy) challenges!
+
+                    Apart from the hacker and awareness training use case, pentesting proxies or security scanners can use Juice Shop as a “guinea pig”-application to check how well their tools cope with JavaScript-heavy application frontends and REST APIs.
+
+                    Translating “dump” or “useless outfit” into German yields “Saftladen” which can be reverse-translated word by word into “juice shop”. Hence the project name. That the initials “JS” match with those of “JavaScript” was purely coincidental!
+                </div>
+
+                <div>
+                    The OWASP Juice Shop has been created by Björn Kimminich and is developed, maintained and translated by a team of volunteers. A live update of the project contributors is found here
+                </div>
+            </article>
+        </section>
+   <footer>&copy;2022 Priya </footer>
+
+</body>
+</html>

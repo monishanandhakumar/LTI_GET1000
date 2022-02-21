@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+   
+</head>
+<body>
+    <h1>JavaScript</h1>
+    <h2 id="len"></h2>
+    <p id="str"></p>
+    <p id="obj"></p>
+
+    <h3 id="addfun" style="background-color:darkcyan"></h3>
+    <script>
+        var length = 16; //number
+        var name = "Tim"; //string
+        var emp = { ename: "hari", eage: 25 }; //object
+        document.getElementById("len").innerHTML = length;
+        document.getElementById("str").innerHTML = name;
+        document.getElementById("obj").innerHTML = emp.ename + "  " + emp.eage;
+
+        function Addition(a, b) {
+            return a + b;
+        }
+        document.getElementById("addfun").innerHTML = Addition(8,9);
+
+    </script>
+    
+</body>
+
+</html>

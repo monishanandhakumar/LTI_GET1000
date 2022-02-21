@@ -1,0 +1,43 @@
+HTML
+
+create web pages
+
+CSS-cascasing stylesheet
+
+1.Inline css
+2.Internal css
+3.External css
+
+selector 
+
+-->Id selector
+-->Class selector
+-->Element selector
+
+how to set background color ?
+
+how to set background image?
+
+no-repeate
+overflow
+
+BoxModel
+
+Border and Margin
+
+Scripting Language
+--interpreted in runtime
+1.client side Scripting Language 2.server side Scripting Language
+
+javascript,jquery                  Asp.net ,jsp
+
+JavaScript
+--object based programming language
+--dynamic webpage 
+
+datatypes:primitive 
+
+
+
+
+

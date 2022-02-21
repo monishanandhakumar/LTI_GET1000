@@ -98,6 +98,18 @@ types of classes
 1.abstract 2.static 3. sealed 4.partial
 
 
+N= 5 - 101
+
+Array
+-------
+single dimension
+multi dimension
+jagged array
+
+99.6 ->100 (ceiling)
+
+99 ->flor
+
 
 
 

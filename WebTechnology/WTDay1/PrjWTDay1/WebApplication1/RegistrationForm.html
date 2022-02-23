@@ -13,8 +13,13 @@
     </style>
     <script type="text/javascript">
 
-
+        console.log("inside formvaidator method")
+        var a = prompt("Enter the value of a");
+        a = a * a;
+        alert( a)
         function formValidator() {
+           
+            debugger;
             var firstname = document.getElementById("fname");
             var zipcode = document.getElementById("zip");
             var email = document.getElementById("email");
@@ -34,12 +39,15 @@
 
         //Firstname
         function isAlphabet(elem, helperMsg) {
+            debugger;
             var alphaExp = /^[a-zA-Z]+$/;
             if (elem.value.match(alphaExp)) {
                 return true;
             }
             else {
                 alert(helperMsg);
+               
+               
                 elem.focus();
                 return false;
             }
@@ -109,6 +117,13 @@
           
             <input type="submit" /> &nbsp;&nbsp;<input type="reset"/>
         </form>
+
+        <p>
+
+            Alert Dialog Box
+            Prompt Dialog Box
+            Confirmation Dialog Box
+        </p> 
     </div>
 
 

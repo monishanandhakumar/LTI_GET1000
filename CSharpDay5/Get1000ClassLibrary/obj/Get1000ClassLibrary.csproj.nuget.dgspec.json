@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj": {}
+    "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj": {
+    "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj",
+        "projectUniqueName": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj",
         "projectName": "Get1000ClassLibrary",
-        "projectPath": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj",
+        "projectPath": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Get1000ClassLibrary\\Get1000ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Get1000ClassLibrary\\obj\\",
+        "outputPath": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Get1000ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

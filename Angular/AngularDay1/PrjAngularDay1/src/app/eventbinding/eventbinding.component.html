@@ -1,0 +1,9 @@
+<h1>eventbinding works!</h1>
+<h3>Ex 1</h3>
+
+<button type="button" (click)="welcomeMsg()">Click Me</button>
+<h3>Eg2</h3>
+<!--# templated reference variable -used to refer element in dom-->
+<input type="text"  #uname>
+<button class="btn btn-primary" (click)="displayname(uname)">GetName</button>
+{{fname}}

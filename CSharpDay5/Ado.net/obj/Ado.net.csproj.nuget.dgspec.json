@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Ado.net\\Ado.net.csproj": {}
+    "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Ado.net\\Ado.net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Ado.net\\Ado.net.csproj": {
+    "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Ado.net\\Ado.net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Ado.net\\Ado.net.csproj",
+        "projectUniqueName": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Ado.net\\Ado.net.csproj",
         "projectName": "Ado.net",
-        "projectPath": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Ado.net\\Ado.net.csproj",
+        "projectPath": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Ado.net\\Ado.net.csproj",
         "packagesPath": "C:\\Users\\MonishaDevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MonishaDevi\\source\\repos\\CSharpDay5\\Ado.net\\obj\\",
+        "outputPath": "C:\\OnlineTraining\\LTI\\.Net1000\\Csharp\\CSharpDay5\\Ado.net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

@@ -35,7 +35,9 @@ JavaScript
 --object based programming language
 --dynamic webpage 
 
-datatypes:primitive 
+datatypes:
+primitive -number,string,boolean,undefined
+complex-Objects,functions
 
 
 

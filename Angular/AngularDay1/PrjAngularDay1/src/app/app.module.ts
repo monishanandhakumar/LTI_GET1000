@@ -8,6 +8,9 @@ import { EventbindingComponent } from './eventbinding/eventbinding.component';
 import { TwowaybindingComponent } from './twowaybinding/twowaybinding.component';
 import { FormsModule } from '@angular/forms';
 import { CrudComponent } from './crud/crud.component';
+import { PipesegComponent } from './pipeseg/pipeseg.component';
+import { DepartmentFilterPipe } from './departmentfilter';
+
 
 @NgModule({
   declarations: [
@@ -15,7 +18,9 @@ import { CrudComponent } from './crud/crud.component';
     DirectivesComponent,
     EventbindingComponent,
     TwowaybindingComponent,
-    CrudComponent
+    CrudComponent,
+    PipesegComponent,
+    DepartmentFilterPipe
   ],
   imports: [
     BrowserModule,

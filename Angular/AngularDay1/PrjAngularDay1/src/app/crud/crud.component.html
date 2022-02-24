@@ -1,0 +1,33 @@
+<p>crud works!</p>
+
+DepartmentID    :<input type="number" placeholder="Enter the ID"  [(ngModel)]=getdeptinfo.did/> <br/><br/>
+
+DepartmentName    :<input type="text" placeholder="Enter the DepartmentName" [(ngModel)]=getdeptinfo.dname/><br/><br/>
+
+Location           :<input type="text" placeholder="Enter the Location" [(ngModel)]=getdeptinfo.location/><br/><br/>
+
+<button class="btn btn-primary" (click)="adddept()">Add</button>&nbsp;
+<button class="btn btn-default" (click)="updatedept()">update</button>
+
+
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            
+            <th>ID</th>
+            <th>Name</th>
+            <th>location</th>
+        </tr>
+    </thead>
+    <tbody *ngFor="let d of dept,let i=index">
+        <tr>
+          
+            <td>{{d.did}}</td>
+            <td>{{d.dname}}</td>
+            <td>{{d.location}}</td>
+            <td><button class="btn btn-danger" (click)="deletedept(d.did)">Delete</button></td>
+            <td><button class="btn btn-info" (click)="editdept(i)">Edit</button></td>
+        </tr>
+
+    </tbody>
+</table>

@@ -7,8 +7,19 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EventbindingComponent implements OnInit {
 
-  constructor() { }
+//Eg3
+  like:number;
+//Eg4
+togglestar:boolean;
+clsName:string;
 
+  constructor() { 
+    this.like=0;
+    this.togglestar=false;
+    this.clsName='glyphicon glyphicon-star-empty';
+  }
+
+ 
   ngOnInit() {
   }
 //Ex1
@@ -22,5 +33,24 @@ export class EventbindingComponent implements OnInit {
   {
      this.fname=username.value;
   }
+ //Ex3
+ thumbsUp(){
+   this.like=this.like+1;
+ }
+//Ex4
+changestar()
+{
+  debugger;
+  this.togglestar=!this.togglestar;
+  if(this.togglestar)
+  {
+    this.clsName="glyphicon glyphicon-star";
+  }
+  else
+  {
+    this.clsName="glyphicon glyphicon-star-empty";
+  }
+}
+
 
 }

@@ -5,16 +5,22 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DirectivesComponent } from './directives/directives.component';
 import { EventbindingComponent } from './eventbinding/eventbinding.component';
+import { TwowaybindingComponent } from './twowaybinding/twowaybinding.component';
+import { FormsModule } from '@angular/forms';
+import { CrudComponent } from './crud/crud.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DirectivesComponent,
-    EventbindingComponent
+    EventbindingComponent,
+    TwowaybindingComponent,
+    CrudComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [], //service
   bootstrap: [AppComponent]

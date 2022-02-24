@@ -7,3 +7,17 @@
 <input type="text"  #uname>
 <button class="btn btn-primary" (click)="displayname(uname)">GetName</button>
 {{fname}}
+
+<h3>Eg3</h3>
+<h4>Thumbsup and thumbsdown</h4>
+
+<p>Hi i am here to explain span: <span style="border:dotted;">{{fname}}</span></p>
+
+<span class="glyphicon glyphicon-thumbs-up" (click)="thumbsUp()"></span>
+<h3>Likes:{{like}}</h3>
+
+<h3>Eg4</h3>
+<h4>Color filling in star</h4>
+<span [class]="clsName" (click)="changestar()"></span>
+
+<h2>Question :get a salary from user add bonus to it and display the totalamount</h2>

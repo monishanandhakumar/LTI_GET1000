@@ -2,10 +2,15 @@
 using Get1000ClassLibrary;
 namespace Ado.net
 {
+    class Test
+    {
+
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            Test t
             TaxCalculation tobj = new TaxCalculation();
             Console.WriteLine( tobj.Calculator(78000)); 
             Console.WriteLine("Hello World!");

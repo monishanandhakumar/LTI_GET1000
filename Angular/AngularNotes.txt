@@ -1,0 +1,73 @@
+Angular 
+
+Client side framework
+SPA- Single page Application
+Command line interface
+
+TypeScript - Microsoft
+--typescript is superscript of javascript
+
+difference btw typescript and javascript
+
+Ts                              js
+
+oops                          object based
+Interface		      willnot support
+point out the errors          interpreted language
+compile time itself	
+
+strong typing    
+
+CLI
+
+new application in angular
+ng new applicationname	
+
+to run
+-------
+ng serve
+
+Module --Collection of component
+
+Bootstrap -- advanced lib of css
+
+To generate new component
+--------------------------------
+ ng generate component directives (or) ng g c componentname
+
+
+Dom -Document object model
+
+          html
+head               body
+
+title            p    div  
+                      p  div h1
+  
+interpolation {{}}
+one way binding
+templated reference variable #
+
+
+Events
+------
+button click 
+mouseover mouseup
+changing the text  etc...
+
+--Assignment
+
+create a student array with sname,rollno ,marks 
+using ngswitch and ngStyle
+
+
+
+
+
+
+
+
+
+
+
+
